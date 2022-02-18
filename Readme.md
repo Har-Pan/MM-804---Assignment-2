@@ -10,12 +10,26 @@ Downloaded the 3D model from https://www.thingiverse.com/thing:5167431
 # Information on the stl file
 
 Name: House_Tower_Gate.stl
+
+
 Size: 50.7 MB or 50,672,934 bytes
+
+
 Type: STL
+
+
 Vertex Count for Original Model: 505,873
+
+
 Vertex Count for Clipped Out Part of Model: 308,009
+
+
 Vertex Count for Remaining Part of Model: 203,324
+
+
 Vertex Count for Intersection part of the Model: 2775
+
+
 
 ## VTK version
 
