@@ -56,17 +56,17 @@ stl_Clipper.SetInputConnection(stl_Normals.GetOutputPort())
 ## OutPut
 
 ### First Angle Output
-![Screenshot](Result.png)
+![Screenshot](Result.jpg)
 
 ### Second Angle Output
-![Screenshot](Res1.png)
+![Screenshot](Res1.jpg)
 
 
 ### Third Angle Output
-![Screenshot](Res2.png)
+![Screenshot](Res2.jpg)
 
 
 ### Fourth Angle Output
-![Screenshot](Res3.png)
+![Screenshot](Res3.jpg)
 
 
